@@ -37,9 +37,9 @@ While TextSummAI is powerful, managing the data generated during summarization r
    
 ---  
 
-![](https://www.techtarget.com/rms/onlineimages/strategy_a200792738_searchsitetablet_520X173.jpg)
+![](https://img-cdn.inc.com/image/upload/f_webp,c_fit,w_1920,q_auto/images/panoramic/data_484831_oewtnm.jpg)
 
-_image credit to: https://www.techtarget.com/searchdatamanagement/tip/10-big-data-challenges-and-how-to-address-them_
+_image credit to: https://www.inc.com/soren-kaplan/how-to-move-forward-when-youre-feeling-overwhelmed-by-data.html_
 
 
 ## The Challenge of Managing Summarization Runs  
