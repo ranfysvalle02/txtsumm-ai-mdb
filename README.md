@@ -2,7 +2,7 @@
 
 ---
 
-# Enhancing Text Summarization with MongoDB and TextSummAI: Achieving Reproducible and Manageable Runs  
+# Reproducible and Manageable Text Summarization with MongoDB
    
 In today's digital age, we're drowning in information. From lengthy articles and research papers to detailed reports and documentation, the sheer volume of text we encounter daily can be overwhelming. Summarizing this information efficiently is not just a convenience—it's a necessity.  
    
