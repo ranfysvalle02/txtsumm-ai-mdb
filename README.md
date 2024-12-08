@@ -20,7 +20,7 @@ In this blog post, we'll dive into how MongoDB complements TextSummAI, making it
    
 ## Understanding TextSummAI  
    
-**TextSummAI** is an open-source Python library designed to simplify and enhance text summarization tasks. It leverages advanced natural language processing (NLP) techniques and models to generate concise summaries from large bodies of text.  
+**[TextSummAI](https://github.com/ranfysvalle02/txtsumm-ai)** is an open-source Python library designed to simplify and enhance text summarization tasks. It leverages advanced natural language processing (NLP) techniques and models to generate concise summaries from large bodies of text.  
    
 **Key Features of TextSummAI:**  
    
