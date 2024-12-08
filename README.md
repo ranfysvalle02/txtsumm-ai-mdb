@@ -526,8 +526,8 @@ pip install pymongo
 **Step 3: Clone the TextSummAI Repository**  
    
 ```bash  
-git clone https://github.com/ranfysvalle02/critical-vectors.git  
-cd critical-vectors  
+git clone https://github.com/ranfysvalle02/txtsumm-ai-mdb.git  
+cd txtsumm-ai-mdb  
 ```  
    
 **Step 4: Configure MongoDB in Your Script**  
