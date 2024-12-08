@@ -1,5 +1,9 @@
 # txtsumm-ai-mdb
 
+![](https://miro.medium.com/v2/resize:fit:1064/1*GIVviyN9Q0cqObcy-q-juQ.png)
+
+_image credit to: https://medium.com/@thakermadhav/comparing-text-summarization-techniques-d1e2e465584e_
+
 ---
 
 # Reproducible and Manageable Text Summarization with MongoDB
