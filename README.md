@@ -55,12 +55,10 @@ When working with complex NLP tasks and models, several challenges arise:
 Traditional methods of storing this data—like plain files or rigid relational databases—may not offer the flexibility or scalability needed. This is where MongoDB comes into the picture.  
    
 ---  
-   
-## Why MongoDB is the Perfect Fit  
 
 ![](https://www.ittraininghub.io/wp-content/uploads/2024/03/desc_images_mongodb.jpeg)
-
-MongoDB is a NoSQL, document-oriented database that stores data in flexible, JSON-like documents. Here's why MongoDB aligns perfectly with the needs of TextSummAI:  
+   
+## Why MongoDB is the Perfect Fit  
    
 ### 1. Flexible Schema  
    
