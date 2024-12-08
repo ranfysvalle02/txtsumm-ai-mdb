@@ -1,8 +1,8 @@
 # txtsumm-ai-mdb
 
-![](https://miro.medium.com/v2/resize:fit:1064/1*GIVviyN9Q0cqObcy-q-juQ.png)
+![](https://miro.medium.com/v2/resize:fit:1400/0*HzBLZPAOiy8B6DhV.png)
 
-_image credit to: https://medium.com/@thakermadhav/comparing-text-summarization-techniques-d1e2e465584e_
+_image credit to: https://ai.plainenglish.io/text-summarization-with-llm-f69b4f2ccb3e_
 
 ---
 
