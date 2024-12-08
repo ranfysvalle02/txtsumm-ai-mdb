@@ -57,7 +57,9 @@ Traditional methods of storing this data—like plain files or rigid relational 
 ---  
    
 ## Why MongoDB is the Perfect Fit  
-   
+
+![](https://www.ittraininghub.io/wp-content/uploads/2024/03/desc_images_mongodb.jpeg)
+
 MongoDB is a NoSQL, document-oriented database that stores data in flexible, JSON-like documents. Here's why MongoDB aligns perfectly with the needs of TextSummAI:  
    
 ### 1. Flexible Schema  
