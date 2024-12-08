@@ -36,7 +36,12 @@ In this blog post, we'll dive into how MongoDB complements TextSummAI, making it
 While TextSummAI is powerful, managing the data generated during summarization runs—like configurations, logs, intermediate summaries, and errors—can be challenging, especially when aiming for reproducibility and effective debugging.  
    
 ---  
-   
+
+![](https://www.techtarget.com/rms/onlineimages/strategy_a200792738_searchsitetablet_520X173.jpg)
+
+_image credit to: https://www.techtarget.com/searchdatamanagement/tip/10-big-data-challenges-and-how-to-address-them_
+
+
 ## The Challenge of Managing Summarization Runs  
    
 When working with complex NLP tasks and models, several challenges arise:  
